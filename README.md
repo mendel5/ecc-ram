@@ -41,20 +41,28 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 
 ## Commands
 ### Windows
+#### 1
 ```
-wmic MEMORYCHIP get DataWidth,TotalWidth
-
-//ECC Memory
+wmic memorychip get datawidth,totalwidth
+```
+```
+# Output:
+# ECC Memory
 DataWidth  TotalWidth
 64         72
 
-//Non-ECC Memory
+# Non-ECC Memory
 DataWidth  TotalWidth
 64         64
+```
 
+#### 2
+```
 wmic memphysical get memoryerrorcorrection
+```
 
-Value Meaning 
+```
+# Output:
 0 (0x0) Reserved 
 
 1 (0x1) Other 
@@ -70,8 +78,15 @@ Value Meaning
 6 (0x6) Multi-bit ECC 
 
 7 (0x7) CRC
-
 ```
+- 0 Reserved:
+- 1 Other:
+- 2 Unknown:
+- 3 None: The currently installed RAM modules do not support ECC.
+- 4 Parity:
+- 5 Single-bit ECC:
+- 6 Multi-bit ECC:
+- 7 CRC: 
 
 ## Todo
 - Single bit ECC vs Multi bit ECC
