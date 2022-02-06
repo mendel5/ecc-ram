@@ -34,6 +34,40 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.heise.de/hintergrund/Arbeitsspeicher-mit-Fehlerschutz-So-funktioniert-ECC-Speicher-6032966.html
 - https://www.makeuseof.com/what-is-ecc-ram/
 
+## Commands
+### Windows
+```
+wmic MEMORYCHIP get DataWidth,TotalWidth
+
+//ECC Memory
+DataWidth  TotalWidth
+64         72
+
+//Non-ECC Memory
+DataWidth  TotalWidth
+64         64
+
+wmic memphysical get memoryerrorcorrection
+
+Value Meaning 
+0 (0x0) Reserved 
+
+1 (0x1) Other 
+
+2 (0x2) Unknown 
+
+3 (0x3) None 
+
+4 (0x4) Parity 
+
+5 (0x5) Single-bit ECC 
+
+6 (0x6) Multi-bit ECC 
+
+7 (0x7) CRC
+
+```
+
 ## Todo
 - Single bit ECC vs Multi bit ECC
 - How to check if ECC Ram works in Synology Diskstation NAS?
