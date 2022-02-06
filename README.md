@@ -17,7 +17,6 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.der-windows-papst.de/2018/02/19/ecc-funktion-unter-windows-testen/
 - https://forum.planet3dnow.de/index.php?threads/ecc-error-checking-correction-hauptspeicher-oder-ram.427046/
 - https://forum.level1techs.com/t/how-to-validate-ecc-memory/140341
-- https://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-ECC
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
 - https://blog.programster.org/how-to-check-for-ECC-ram-functionality
 - https://forum.ubuntuusers.de/topic/herausfinden-ob-ecc-aktiv-ist/
@@ -29,6 +28,8 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.reddit.com/r/Amd/comments/lf3i6b/overclocked_ecc_memory_with_a_5900x_my_results/
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
 - https://www.youtube.com/watch?v=uTuxqxSkjYY Check for ECC memory using Windows 10 PowerShell commands
+- https://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-ECC
+- https://www.theregister.com/2021/01/04/linus_torvalds_intel_killed_ecc/
 - https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
 - https://www.computerbase.de/2021-01/linus-torvalds-intel-ecc-standard/
 - https://www.heise.de/hintergrund/Arbeitsspeicher-mit-Fehlerschutz-So-funktioniert-ECC-Speicher-6032966.html
