@@ -20,6 +20,20 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://blog.programster.org/how-to-check-for-ECC-ram-functionality
 - https://unix.stackexchange.com/questions/139319/how-to-tell-whether-ram-ecc-is-working
 - https://forum.ubuntuusers.de/topic/herausfinden-ob-ecc-aktiv-ist/
+- https://www.reddit.com/r/unRAID/comments/mc5d2h/understanding_the_realworld_effects_of_ecc_ram_in/
+- https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
+- https://www.reddit.com/r/Amd/comments/lerxuj/linus_was_right_consumer_ecc_memory/
+- https://www.youtube.com/watch?v=pPeCNrNTr3k
+- https://www.reddit.com/r/freenas/comments/o9sg8q/confused_about_ecc_memory_homelab/
+- https://www.reddit.com/r/Amd/comments/np5m9m/use_of_ecc_ram/
+- https://www.reddit.com/r/Amd/comments/lf3i6b/overclocked_ecc_memory_with_a_5900x_my_results/
+- https://superuser.com/questions/tagged/ecc?tab=Votes
+- https://superuser.com/questions/1635090/what-happened-to-ecc-ram
+- https://www.memtest86.com/ecc.htm
+- https://www.heise.de/hintergrund/Arbeitsspeicher-mit-Fehlerschutz-So-funktioniert-ECC-Speicher-6032966.html
+- https://www.computerbase.de/2021-01/linus-torvalds-intel-ecc-standard/
+- https://www.makeuseof.com/what-is-ecc-ram/
 
 ## Todo
 - Single bit ECC vs Multi bit ECC
+- How to check if ECC Ram works in Synology Diskstation NAS?
