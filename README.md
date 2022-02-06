@@ -34,6 +34,9 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.heise.de/hintergrund/Arbeitsspeicher-mit-Fehlerschutz-So-funktioniert-ECC-Speicher-6032966.html
 - https://www.makeuseof.com/what-is-ecc-ram/
 - https://www.pugetsystems.com/labs/articles/How-to-Check-ECC-RAM-Functionality-462/
+- https://www.admin-magazine.com/HPC/Articles/Memory-Errors
+- https://github.com/ThiagoMartinsdeMelo/Linux
+- https://github.com/ThiagoMartinsdeMelo/Linux/blob/master/01%20-%20Hardware%20Information/checking%20ECC%20memory.md
 
 ## Commands
 ### Windows
