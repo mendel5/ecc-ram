@@ -33,6 +33,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.computerbase.de/2021-01/linus-torvalds-intel-ecc-standard/
 - https://www.heise.de/hintergrund/Arbeitsspeicher-mit-Fehlerschutz-So-funktioniert-ECC-Speicher-6032966.html
 - https://www.makeuseof.com/what-is-ecc-ram/
+- https://www.pugetsystems.com/labs/articles/How-to-Check-ECC-RAM-Functionality-462/
 
 ## Commands
 ### Windows
