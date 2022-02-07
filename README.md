@@ -38,11 +38,9 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.admin-magazine.com/HPC/Articles/Memory-Errors
 - https://github.com/ThiagoMartinsdeMelo/Linux
 - https://github.com/ThiagoMartinsdeMelo/Linux/blob/master/01%20-%20Hardware%20Information/checking%20ECC%20memory.md
-
-## Other
-Standard ECC can correct single-bit memory errors and detect multi-bit memory errors. When multi-bit errors are detected using Standard ECC, the error is signaled to the server and causes the server to halt.  Advanced ECC protects the server against some multi-bit memory errors. Advanced ECC can correct both single-bit memory errors and 4-bit memory errors if all failed bits are on the same DRAM device on the DIMM.  Advanced ECC provides additional protection over Standard ECC because it is possible to correct certain memory errors that would otherwise be uncorrected and result in a server failure.
-
-Source: https://techlibrary.hpe.com/docs/iss/DL380pGen8/setup_install/advanced/Content/138605.htm
+- https://techlibrary.hpe.com/docs/iss/DL380pGen8/setup_install/advanced/Content/138605.htm Single bit vs multi bit ecc
+- https://www.atpinc.com/blog/ecc-dimm-memory-ram-errors-types-chipkill Single bit vs multi bit ecc
+- https://www.elektronik-kompendium.de/sites/com/1504141.htm
 
 ## Commands
 ### Windows
@@ -96,3 +94,4 @@ wmic memphysical get memoryerrorcorrection
 - Single bit ECC vs Multi bit ECC
 - How to check if ECC Ram works in Synology Diskstation NAS?
 - Terminal Commands for Windows 10, Linux and Synology
+- Buffered / Unbuffered, Registered
