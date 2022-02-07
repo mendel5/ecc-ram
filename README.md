@@ -86,8 +86,8 @@ wmic memphysical get memoryerrorcorrection
 - 2 Unknown:
 - 3 None: The currently installed RAM modules do not support ECC.
 - 4 Parity:
-- 5 Single-bit ECC: 
-- 6 Multi-bit ECC: 
+- 5 Single-bit ECC: Single bit errors are detected and corrected, but multi-bit errors are not detected (to verify!)
+- 6 Multi-bit ECC: Single bit errors are detected and corrected, multi-bit errors are detected but not corrected (to verify!)
 - 7 CRC: 
 
 ## Todo
