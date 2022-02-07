@@ -39,6 +39,11 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://github.com/ThiagoMartinsdeMelo/Linux
 - https://github.com/ThiagoMartinsdeMelo/Linux/blob/master/01%20-%20Hardware%20Information/checking%20ECC%20memory.md
 
+## Other
+Standard ECC can correct single-bit memory errors and detect multi-bit memory errors. When multi-bit errors are detected using Standard ECC, the error is signaled to the server and causes the server to halt.  Advanced ECC protects the server against some multi-bit memory errors. Advanced ECC can correct both single-bit memory errors and 4-bit memory errors if all failed bits are on the same DRAM device on the DIMM.  Advanced ECC provides additional protection over Standard ECC because it is possible to correct certain memory errors that would otherwise be uncorrected and result in a server failure.
+
+Source: https://techlibrary.hpe.com/docs/iss/DL380pGen8/setup_install/advanced/Content/138605.htm
+
 ## Commands
 ### Windows
 #### 1
@@ -46,12 +51,11 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 wmic memorychip get datawidth,totalwidth
 ```
 ```
-# Output:
-# ECC Memory
+# Output with ECC memory
 DataWidth  TotalWidth
 64         72
 
-# Non-ECC Memory
+# Output without ECC memory
 DataWidth  TotalWidth
 64         64
 ```
@@ -84,8 +88,8 @@ wmic memphysical get memoryerrorcorrection
 - 2 Unknown:
 - 3 None: The currently installed RAM modules do not support ECC.
 - 4 Parity:
-- 5 Single-bit ECC:
-- 6 Multi-bit ECC:
+- 5 Single-bit ECC: 
+- 6 Multi-bit ECC: 
 - 7 CRC: 
 
 ## Todo
