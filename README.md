@@ -89,7 +89,7 @@ wmic memphysical get memoryerrorcorrection
 - 4 Parity:
 - 5 Single-bit ECC: Single bit errors are detected and corrected, but multi-bit errors are neither detected nor corrected (to verify!)
 - 6 Multi-bit ECC: Single bit errors are detected and corrected, multi-bit errors are detected but not corrected (to verify!)
-- 7 CRC: 
+- 7 CRC: CRC stands for Cyclic redundancy check
 
 ## Todo
 - Single bit ECC vs Multi bit ECC
