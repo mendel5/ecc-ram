@@ -116,3 +116,4 @@ wmic memphysical get memoryerrorcorrection
 - R-DIMM, U-DIMM, SO-DIMM
 - Registered / Unregistered
 - Buffered / Unbuffered
+- https://geizhals.de/?cat=ramddr3
