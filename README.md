@@ -23,6 +23,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://techlibrary.hpe.com/docs/iss/DL380pGen8/setup_install/advanced/Content/138605.htm Single bit vs multi bit ecc
 - https://www.atpinc.com/blog/ecc-dimm-memory-ram-errors-types-chipkill Single bit vs multi bit ecc
 - https://www.elektronik-kompendium.de/sites/com/1504141.htm
+- https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
@@ -48,6 +49,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.reddit.com/r/freenas/comments/o9sg8q/confused_about_ecc_memory_homelab/
 - https://www.reddit.com/r/Amd/comments/np5m9m/use_of_ecc_ram/
 - https://www.reddit.com/r/Amd/comments/lf3i6b/overclocked_ecc_memory_with_a_5900x_my_results/
+- https://www.reddit.com/r/hardware/comments/t9jn2s/intel_enables_ecc_memory_on_consumer_alder_lake/
 
 ### Youtube
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
