@@ -24,6 +24,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.atpinc.com/blog/ecc-dimm-memory-ram-errors-types-chipkill Single bit vs multi bit ecc
 - https://www.elektronik-kompendium.de/sites/com/1504141.htm
 - https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
+- https://www.heise.de/news/Intel-Alder-Lake-Core-i-Prozessoren-mit-ECC-RAM-moeglich-6541388.html
 - https://mcl.de/it-wissen/blog/rdimm-vs.-udimm-die-arbeitsspeicher-technologien-im-vergleich
 - https://www.giga.de/extra/arbeitsspeicher/tipps/dimm-u-dimm-so-dimm-r-dimm-und-lr-dimm-was-ist-das-unterschiede-erklaert/
 - https://linuxhint.com/rdimm-vs-udimm/
