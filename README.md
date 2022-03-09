@@ -24,6 +24,9 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.atpinc.com/blog/ecc-dimm-memory-ram-errors-types-chipkill Single bit vs multi bit ecc
 - https://www.elektronik-kompendium.de/sites/com/1504141.htm
 - https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
+- https://mcl.de/it-wissen/blog/rdimm-vs.-udimm-die-arbeitsspeicher-technologien-im-vergleich
+- https://www.giga.de/extra/arbeitsspeicher/tipps/dimm-u-dimm-so-dimm-r-dimm-und-lr-dimm-was-ist-das-unterschiede-erklaert/
+- https://linuxhint.com/rdimm-vs-udimm/
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
@@ -41,6 +44,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://superuser.com/questions/tagged/ecc?tab=Votes
 - https://serverfault.com/questions/643542/how-do-i-get-notified-of-ecc-errors-in-linux
 - https://unix.stackexchange.com/questions/139319/how-to-tell-whether-ram-ecc-is-working
+- https://serverfault.com/questions/289098/what-is-the-difference-between-rdimm-vs-udimm
 
 ### Reddit
 - https://www.reddit.com/r/HomeServer/comments/gh7r7q/how_to_log_corrected_ecc_memory_errors_in_windows/
@@ -108,4 +112,6 @@ wmic memphysical get memoryerrorcorrection
 - Single bit ECC vs Multi bit ECC
 - How to check if ECC Ram works in Synology Diskstation NAS?
 - Terminal Commands for Windows 10, Linux and Synology
-- Buffered / Unbuffered, Registered
+- R-DIMM, U-DIMM, SO-DIMM
+- Registered / Unregistered
+- Buffered / Unbuffered
