@@ -65,26 +65,30 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 ## Commands
 ### Windows
 #### 1
+In Windows CMD or Windows Powershell, enter the following command:
 ```
 wmic memorychip get datawidth,totalwidth
 ```
+
+Output:
 ```
-# Output with ECC memory
+# If the system has ECC memory
 DataWidth  TotalWidth
 64         72
 
-# Output without ECC memory
+# If the system does not have ECC memory
 DataWidth  TotalWidth
 64         64
 ```
 
 #### 2
+In Windows CMD or Windows Powershell, enter the following command:
 ```
 wmic memphysical get memoryerrorcorrection
 ```
 
+Output:
 ```
-# Output:
 0 (0x0) Reserved 
 
 1 (0x1) Other 
@@ -101,6 +105,8 @@ wmic memphysical get memoryerrorcorrection
 
 7 (0x7) CRC
 ```
+
+Explanation:
 - 0 Reserved:
 - 1 Other:
 - 2 Unknown:
