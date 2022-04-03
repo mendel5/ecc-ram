@@ -60,7 +60,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 ### Youtube
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
 - https://www.youtube.com/watch?v=uTuxqxSkjYY Check for ECC memory using Windows 10 PowerShell commands
-
+- https://www.youtube.com/watch?v=fCQYBsuBqfU Speicherdiagnose (RAM) mit Windows-Bordmitteln untersuchen: Arbeitsspeicher auf Fehler prüfen
 
 ## Commands
 ### Windows
