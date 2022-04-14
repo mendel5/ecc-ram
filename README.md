@@ -59,6 +59,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.reddit.com/r/Amd/comments/np5m9m/use_of_ecc_ram/
 - https://www.reddit.com/r/Amd/comments/lf3i6b/overclocked_ecc_memory_with_a_5900x_my_results/
 - https://www.reddit.com/r/hardware/comments/t9jn2s/intel_enables_ecc_memory_on_consumer_alder_lake/
+- https://www.reddit.com/r/Amd/comments/bsszwg/ecc_ryzen_and_2bit_errors/
 
 ### Youtube
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
