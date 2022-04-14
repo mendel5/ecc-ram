@@ -127,3 +127,4 @@ Explanation:
 - Registered / Unregistered
 - Buffered / Unbuffered
 - https://geizhals.de/?cat=ramddr3
+- ECC injection
