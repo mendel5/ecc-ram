@@ -29,6 +29,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.giga.de/extra/arbeitsspeicher/tipps/dimm-u-dimm-so-dimm-r-dimm-und-lr-dimm-was-ist-das-unterschiede-erklaert/
 - https://linuxhint.com/rdimm-vs-udimm/
 - https://www.computerbase.de/forum/threads/memtest-beim-asus-ws-c246-pro-wie-ecc-testen.2073239/ ECC Injection
+- https://news.ycombinator.com/item?id=31016042 What Flips Your Bit: Cosmic Ray Errors at Mozilla (blog.mozilla.org)
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
