@@ -30,6 +30,8 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://linuxhint.com/rdimm-vs-udimm/
 - https://www.computerbase.de/forum/threads/memtest-beim-asus-ws-c246-pro-wie-ecc-testen.2073239/ ECC Injection
 - https://news.ycombinator.com/item?id=31016042 What Flips Your Bit: Cosmic Ray Errors at Mozilla (blog.mozilla.org)
+- https://github.com/mchehab/rasdaemon
+- https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
