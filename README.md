@@ -1,8 +1,8 @@
 # ecc-ram
 
-++Work in Progress++
-
 Everything you need to know about ECC RAM and how to use it in Windows and Linux
+
+++ Work in Progress ++
 
 ## Links
 - https://en.wikipedia.org/wiki/ECC_memory
