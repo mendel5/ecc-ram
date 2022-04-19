@@ -32,6 +32,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://news.ycombinator.com/item?id=31016042 What Flips Your Bit: Cosmic Ray Errors at Mozilla (blog.mozilla.org)
 - https://github.com/mchehab/rasdaemon
 - https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/
+- https://www.truenas.com/community/threads/ecc-working-single-multi-bit-testing-ecc-ram.72668/
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
