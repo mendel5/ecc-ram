@@ -35,6 +35,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.truenas.com/community/threads/ecc-working-single-multi-bit-testing-ecc-ram.72668/
 - https://www.hardwareluxx.de/community/threads/fehlende-ecc-unterst%C3%BCtzung-linus-torvalds-schimpft-%C3%BCber-intel.1286407/page-2
 - https://news.ycombinator.com/item?id=25622322 ECC matters (realworldtech.com) - Linus Torvalds
+- https://lowendspirit.com/discussion/2369/linus-torvalds-hn-ecc-ram-rasdaemon
 
 ### Linux stuff
 - https://www.admin-magazin.de/Das-Heft/2013/12/Speicherfehler-unter-Linux-erkennen-und-beobachten
