@@ -70,6 +70,8 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 ### Linux
 ```
 sudo dmidecode -t memory
+
+sudo dmidecode -t 16
 ```
 
 ### Windows
