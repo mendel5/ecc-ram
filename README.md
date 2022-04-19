@@ -129,6 +129,10 @@ Explanation:
 - Buffered / Unbuffered
 - Synchronous / Asynchronous
   - https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
-- https://geizhals.de/?cat=ramddr3
+- Compare:
+  - https://geizhals.de/?cat=ramddr3
+  - https://geizhals.de/g-skill-aegis-dimm-kit-16gb-f4-3200c16d-16gis-a2151626.html?hloc=de
+  - https://geizhals.de/corsair-vengeance-rgb-pro-schwarz-dimm-kit-16gb-cmw16gx4m2c3200c16-a1828434.html?hloc=de
+  - https://geizhals.de/kingston-server-premier-dimm-32gb-ksm32ed8-32me-a2351239.html?hloc=de
 - ECC injection
 - Rank: Single-Rank, Dual-Rank, etc.
