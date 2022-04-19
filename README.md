@@ -124,7 +124,7 @@ Explanation:
 - Single bit ECC vs Multi bit ECC
 - How to check if ECC Ram works in Synology Diskstation NAS?
 - Terminal Commands for Windows 10, Linux and Synology
-- R-DIMM, U-DIMM, SO-DIMM
+- R-DIMM/RDIMM, U-DIMM/UDIMM, SO-DIMM/SODIMM
 - Registered / Unregistered
 - Buffered / Unbuffered
 - Synchronous / Asynchronous
