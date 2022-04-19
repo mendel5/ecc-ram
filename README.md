@@ -7,6 +7,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 ## Links
 - https://en.wikipedia.org/wiki/ECC_memory
 - https://www.memtest86.com/ecc.htm
+- https://www.memtest86.com/compare.html
 - https://forum.planet3dnow.de/index.php?threads/ecc-error-checking-correction-hauptspeicher-oder-ram.427046/
 - https://blog.programster.org/how-to-check-for-ECC-ram-functionality
 - https://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-ECC
