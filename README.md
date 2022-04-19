@@ -127,5 +127,7 @@ Explanation:
 - R-DIMM, U-DIMM, SO-DIMM
 - Registered / Unregistered
 - Buffered / Unbuffered
+- Synchronous / Asynchronous
+  - https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
 - https://geizhals.de/?cat=ramddr3
 - ECC injection
