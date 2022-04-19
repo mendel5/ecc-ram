@@ -131,4 +131,4 @@ Explanation:
   - https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
 - https://geizhals.de/?cat=ramddr3
 - ECC injection
-- Rank
+- Rank: Single-Rank, Dual-Rank, etc.
