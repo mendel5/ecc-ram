@@ -67,6 +67,11 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.youtube.com/watch?v=fCQYBsuBqfU Speicherdiagnose (RAM) mit Windows-Bordmitteln untersuchen: Arbeitsspeicher auf Fehler prüfen
 
 ## Commands
+### Linux
+```
+sudo dmidecode -t memory
+```
+
 ### Windows
 #### 1
 In Windows CMD or Windows Powershell, enter the following command:
