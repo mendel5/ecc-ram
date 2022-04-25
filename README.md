@@ -147,6 +147,7 @@ Explanation:
   - https://geizhals.de/corsair-vengeance-rgb-pro-schwarz-dimm-kit-16gb-cmw16gx4m2c3200c16-a1828434.html?hloc=de
   - https://geizhals.de/kingston-server-premier-dimm-32gb-ksm32ed8-32me-a2351239.html?hloc=de
 - ECC injection
-- Rank: Single-Rank, Dual-Rank, etc.
+- Rank: Single-Rank, Dual-Rank, Quad-Rank
+  - https://techlibrary.hpe.com/docs/iss/DL380pGen8/setup_install/advanced/Content/138678.htm
 - How about bandwidth? There's no excuse for not buying some Dual Rank B-die these days. My 3600c16 rated kit can do this and I'm motherboard limited. https://wccftech.com/nvidia-ad102-gpus-powering-next-gen-geforce-rtx-40-series-will-stick-with-pcie-gen-4-0-protocol/#comment-5837613568
 - Single Channel vs Dual Channel (`2 x 4GB` is better than `1 x 8GB`) https://old.reddit.com/r/pcmasterrace/comments/ube2ze/me_right_now/
