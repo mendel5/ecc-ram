@@ -148,3 +148,5 @@ Explanation:
   - https://geizhals.de/kingston-server-premier-dimm-32gb-ksm32ed8-32me-a2351239.html?hloc=de
 - ECC injection
 - Rank: Single-Rank, Dual-Rank, etc.
+- How about bandwidth? There's no excuse for not buying some Dual Rank B-die these days. My 3600c16 rated kit can do this and I'm motherboard limited. https://wccftech.com/nvidia-ad102-gpus-powering-next-gen-geforce-rtx-40-series-will-stick-with-pcie-gen-4-0-protocol/#comment-5837613568
+
