@@ -137,7 +137,7 @@ Explanation:
 - How to check if ECC Ram works in Synology Diskstation NAS?
 - Terminal Commands for Windows 10, Linux and Synology
 - R-DIMM/RDIMM, U-DIMM/UDIMM, SO-DIMM/SODIMM
-- Registered / Unregistered, wohl identisch zu RDIMM
+- Registered / Unregistered, wohl identisch zu RDIMM, https://en.wikipedia.org/wiki/Registered_memory
 - Buffered / Unbuffered, betrifft wohl nur RDIMM
 - Synchronous / Asynchronous
   - https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
@@ -152,3 +152,4 @@ Explanation:
   - More Ranks is better. Dual-Rank usually works very well.
 - How about bandwidth? There's no excuse for not buying some Dual Rank B-die these days. My 3600c16 rated kit can do this and I'm motherboard limited. https://wccftech.com/nvidia-ad102-gpus-powering-next-gen-geforce-rtx-40-series-will-stick-with-pcie-gen-4-0-protocol/#comment-5837613568
 - Single Channel vs Dual Channel (`2 x 4GB` is better than `1 x 8GB`) https://old.reddit.com/r/pcmasterrace/comments/ube2ze/me_right_now/
+- Does AMD Ryzen support xyz RAM?
