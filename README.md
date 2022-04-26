@@ -152,4 +152,5 @@ Explanation:
   - More Ranks is better. Dual-Rank usually works very well.
 - How about bandwidth? There's no excuse for not buying some Dual Rank B-die these days. My 3600c16 rated kit can do this and I'm motherboard limited. https://wccftech.com/nvidia-ad102-gpus-powering-next-gen-geforce-rtx-40-series-will-stick-with-pcie-gen-4-0-protocol/#comment-5837613568
 - Single Channel vs Dual Channel (`2 x 4GB` is better than `1 x 8GB`) https://old.reddit.com/r/pcmasterrace/comments/ube2ze/me_right_now/
-- Does AMD Ryzen support xyz RAM?
+- AM4 doesn't support ECC RDIMMs on any level. Only supports normal UDIMMs and ECC UDIMMs.
+
