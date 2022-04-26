@@ -137,8 +137,8 @@ Explanation:
 - How to check if ECC Ram works in Synology Diskstation NAS?
 - Terminal Commands for Windows 10, Linux and Synology
 - R-DIMM/RDIMM, U-DIMM/UDIMM, SO-DIMM/SODIMM
-- Registered / Unregistered
-- Buffered / Unbuffered
+- Registered / Unregistered, wohl identisch zu RDIMM
+- Buffered / Unbuffered, betrifft wohl nur RDIMM
 - Synchronous / Asynchronous
   - https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
 - Compare:
