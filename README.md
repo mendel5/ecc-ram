@@ -153,4 +153,4 @@ Explanation:
 - How about bandwidth? There's no excuse for not buying some Dual Rank B-die these days. My 3600c16 rated kit can do this and I'm motherboard limited. https://wccftech.com/nvidia-ad102-gpus-powering-next-gen-geforce-rtx-40-series-will-stick-with-pcie-gen-4-0-protocol/#comment-5837613568
 - Single Channel vs Dual Channel (`2 x 4GB` is better than `1 x 8GB`) https://old.reddit.com/r/pcmasterrace/comments/ube2ze/me_right_now/
 - AM4 doesn't support ECC RDIMMs on any level, it only supports normal (non-ECC) UDIMMs and ECC UDIMMs https://old.reddit.com/r/HomeServer/comments/duj1pf/am4_with_registered_ecc_ram/f76mdtg/
-
+- Memtest86 vs Memtest86+: Memtest86 is a proprietary software sold by PassMark. Memtest86+ is FOSS. Memtest86 is preferred over Memtest86+ because Memtest86 has been optimized for UEFI, etc. https://en.wikipedia.org/wiki/Memtest86
