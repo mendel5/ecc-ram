@@ -65,6 +65,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.reddit.com/r/Amd/comments/lf3i6b/overclocked_ecc_memory_with_a_5900x_my_results/
 - https://www.reddit.com/r/hardware/comments/t9jn2s/intel_enables_ecc_memory_on_consumer_alder_lake/
 - https://www.reddit.com/r/Amd/comments/bsszwg/ecc_ryzen_and_2bit_errors/
+- https://www.reddit.com/r/hardware/comments/mc8j2c/what_is_the_difference_between_ddr5_ecc_and_real/
 
 ### Youtube
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
@@ -154,3 +155,4 @@ Explanation:
 - Single Channel vs Dual Channel (`2 x 4GB` is better than `1 x 8GB`) https://old.reddit.com/r/pcmasterrace/comments/ube2ze/me_right_now/
 - AM4 doesn't support ECC RDIMMs on any level, it only supports normal (non-ECC) UDIMMs and ECC UDIMMs https://old.reddit.com/r/HomeServer/comments/duj1pf/am4_with_registered_ecc_ram/f76mdtg/
 - Memtest86 vs Memtest86+: Memtest86 is a proprietary software sold by PassMark. Memtest86+ is FOSS. Memtest86 is preferred over Memtest86+ because Memtest86 has been optimized for UEFI, etc. https://en.wikipedia.org/wiki/Memtest86
+- DDR5 On-die ECC vs. "normal" side-band ECC
