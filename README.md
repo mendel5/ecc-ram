@@ -5,6 +5,7 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 ++ Work in Progress ++
 
 ## Links
+### General
 - https://en.wikipedia.org/wiki/ECC_memory
 - https://www.memtest86.com/ecc.htm
 - https://www.memtest86.com/compare.html
@@ -71,6 +72,14 @@ Everything you need to know about ECC RAM and how to use it in Windows and Linux
 - https://www.youtube.com/watch?v=pPeCNrNTr3k Linus was right, ECC Memory Explained by Linus Tech Tips
 - https://www.youtube.com/watch?v=uTuxqxSkjYY Check for ECC memory using Windows 10 PowerShell commands
 - https://www.youtube.com/watch?v=fCQYBsuBqfU Speicherdiagnose (RAM) mit Windows-Bordmitteln untersuchen: Arbeitsspeicher auf Fehler prüfen
+
+### New
+- https://linustechtips.com/topic/952498-checking-ecc-error-count/
+- https://www.reddit.com/r/HomeServer/comments/gh7r7q/how_to_log_corrected_ecc_memory_errors_in_windows/
+- https://www.reddit.com/r/Amd/comments/ggmyyg/an_overview_of_ecc_memory_on_ryzen/
+- http://www.xtremesystems.org/forums/showthread.php?283454-ECC-soft-error-count-reporting-monitoring-on-Windows
+- https://answers.microsoft.com/en-us/windows/forum/windows_7-hardware/ecc-error-logging-and-reporting-in-windows-7/08c242c4-69ec-47c9-bf7c-0fe9c023e32f
+- https://techreport.com/forums/viewtopic.php?t=81239
 
 ## Commands
 ### Linux
