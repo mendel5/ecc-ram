@@ -80,6 +80,10 @@ sudo dmidecode -t memory
 sudo dmidecode -t 16
 ```
 
+```
+rasdaemon
+```
+
 ### Windows
 #### 1
 In Windows CMD or Windows Powershell, enter the following command:
